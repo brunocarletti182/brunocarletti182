@@ -22,7 +22,7 @@ In this corner of the digital universe, you'll find a collection of projects tha
 </div>
 
 <div style="display: inline_block"><br>
-   https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+   <img width="40" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/>
 </div>
  
 <br>
